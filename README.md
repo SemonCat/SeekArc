@@ -3,7 +3,7 @@ SeekArc
 
 ### About This Project
 
-This project is fork on [SeekArc](https://github.com/TriggerTrap/SeekArc).
+This project is fork from [SeekArc](https://github.com/TriggerTrap/SeekArc).
 
 I just upload to maven and building by gradle.
 
